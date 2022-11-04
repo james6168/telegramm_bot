@@ -1,4 +1,4 @@
-Telegramm Bot
+Telegram Bot
 
 How to install it locally?:
 
